@@ -1,6 +1,7 @@
 version: '3.8'
 
 services:
+  # App service
   app:
     build:
       context: .
